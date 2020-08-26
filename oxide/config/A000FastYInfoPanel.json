@@ -1,0 +1,234 @@
+{
+	"Docks": {
+		"DockCenter": {
+			"AnchorX": "Left",
+			"AnchorY": "Bottom",
+			"Available": true,
+			"BackgroundColor": "0 0 0 0.0",
+			"Height": 0.020,
+			"Margin": "0.005 0.375 0.001 0.000",
+			"Width": 0.18
+		}
+	},
+	"Panels": {
+		"Clock": {
+			"AnchorX": "Left",
+			"AnchorY": "Bottom",
+			"Autoload": true,
+			"Available": true,
+			"BackgroundColor": "0 0 0 0.0",
+			"Dock": "DockCenter",
+			"FadeOut": 0.0,
+			"Height": 0.95,
+			"Margin": "0 0 0 0.01",
+			"Order": 1,
+			"PanelSettings": {
+				"ClockUpdateFrequency (seconds)": 4,
+				"TimeFormat": "HH:mm"
+			},
+			"Text": {
+				"Align": "MiddleLeft",
+				"AnchorX": "Left",
+				"AnchorY": "Bottom",
+				"Available": true,
+				"BackgroundColor": "0 0 0 0.0",
+				"Content": "No Content",
+				"FadeIn": 0.0,
+				"FadeOut": 0.0,
+				"FontColor": "1 1 1 0.4",
+				"FontSize": 12,
+				"Height": 0.95,
+				"Margin": "0 0.01 0 0.01",
+				"Order": 0,
+				"Width": 1.0
+			},
+			"Width": 0.195
+		},
+		"OPlayers": {
+			"AnchorX": "Left",
+			"AnchorY": "Bottom",
+			"Autoload": true,
+			"Available": true,
+			"BackgroundColor": "0 0 0 0.0",
+			"Dock": "DockCenter",
+			"FadeOut": 0.0,
+			"Height": 0.95,
+			"Image": {
+				"AnchorX": "Left",
+				"AnchorY": "Bottom",
+				"Available": true,
+				"BackgroundColor": "0 0 0 0",
+				"Height": 0.8,
+				"Margin": "0 0.05 0.1 0.05",
+				"Order": 1,
+				"Url": "http://ufs.co.ua/resources/infopanel/oplayers.png",
+				"Width": 0.26,
+				"Color": "1 1 1 0.4"
+			},
+			"Margin": "0 0 0 0.01",
+			"Order": 2,
+			"Text": {
+				"Align": "MiddleLeft",
+				"AnchorX": "Left",
+				"AnchorY": "Bottom",
+				"Available": true,
+				"BackgroundColor": "0 0 0 0.0",
+				"Content": "No Content",
+				"FadeIn": 0.0,
+				"FadeOut": 0.0,
+				"FontColor": "1 1 1 0.4",
+				"FontSize": 12,
+				"Height": 1.0,
+				"Margin": "0 0 0 0.005",
+				"Order": 2,
+				"Width": 0.70
+			},
+			"Width": 0.28
+		},
+		"Sleepers": {
+			"AnchorX": "Left",
+			"AnchorY": "Bottom",
+			"Autoload": true,
+			"Available": true,
+			"BackgroundColor": "0 0 0 0.0",
+			"Dock": "DockCenter",
+			"FadeOut": 0.0,
+			"Height": 0.95,
+			"Image": {
+				"AnchorX": "Left",
+				"AnchorY": "Bottom",
+				"Available": true,
+				"BackgroundColor": "0 0 0 0",
+				"Height": 0.8,
+				"Margin": "0 0.05 0.1 0.05",
+				"Order": 1,
+				"Url": "http://ufs.co.ua/resources/infopanel/sleepers.png",
+				"Width": 0.34,
+				"Color": "1 1 1 0.4"
+			},
+			"Margin": "0 0 0 0.01",
+			"Order": 3,
+			"Text": {
+				"Align": "MiddleLeft",
+				"AnchorX": "Left",
+				"AnchorY": "Bottom",
+				"Available": true,
+				"BackgroundColor": "0 0 0 0",
+				"Content": "No Content",
+				"FadeIn": 0.0,
+				"FadeOut": 0.0,
+				"FontColor": "1 1 1 0.4",
+				"FontSize": 12,
+				"Height": 1.0,
+				"Margin": "0 0.000 0 0.005",
+				"Order": 2,
+				"Width": 0.6
+			},
+			"Width": 0.28
+		},
+		"AirdropEvent": {
+			"AnchorX": "Left",
+			"AnchorY": "Bottom",
+			"Autoload": true,
+			"Available": true,
+			"BackgroundColor": "0 0 0 0.0",
+			"Dock": "DockCenter",
+			"FadeOut": 0.0,
+			"Height": 0.95,
+			"Image": {
+				"AnchorX": "Left",
+				"AnchorY": "Bottom",
+				"Available": true,
+				"BackgroundColor": "0 0 0 0",
+				"Height": 0.8,
+				"Margin": "0 0.1 0.1 0.1",
+				"Order": 1,
+				"Url": "http://ufs.co.ua/resources/infopanel/airdropevent.png",
+				"Width": 0.8
+			},
+			"Margin": "0 0 0 0.01",
+			"Order": 4,
+			"PanelSettings": {
+				"ActiveColor": "0.2 0.8 0.2 0.2",
+				"InactiveColor": "1 1 1 0.4"
+			},
+			"Width": 0.08
+		},
+		"HelicopterEvent": {
+			"AnchorX": "Left",
+			"AnchorY": "Bottom",
+			"Autoload": true,
+			"Available": true,
+			"BackgroundColor": "0 0 0 0",
+			"Dock": "DockCenter",
+			"FadeOut": 0.0,
+			"Height": 1,
+			"Image": {
+				"AnchorX": "Left",
+				"AnchorY": "Bottom",
+				"Available": true,
+				"BackgroundColor": "0 0 0 0",
+				"Height": 1,
+				"Margin": "0 0.10 0 0.0",
+				"Order": 1,
+				"Url": "http://ufs.co.ua/resources/infopanel/helicopterevent.png",
+				"Width": 0.75
+			},
+			"Margin": "0 0 0 0",
+			"Order": 5,
+			"PanelSettings": {
+				"ActiveColor": "0.8 0.2 0.2 0.2",
+				"InactiveColor": "1 1 1 0.4"
+			},
+			"Width": 0.12
+		},
+		"Balance": {
+			"AnchorX": "Left",
+			"AnchorY": "Bottom",
+			"Autoload": true,
+			"Available": true,
+			"BackgroundColor": "0 0 0 0.0",
+			"Dock": "DockCenter",
+			"FadeOut": 0.0,
+			"Height": 0.95,
+			"Image": {
+				"AnchorX": "Left",
+				"AnchorY": "Bottom",
+				"Available": true,
+				"BackgroundColor": "0 0 0 0",
+				"Height": 0.8,
+				"Margin": "0 0.05 0.1 0.05",
+				"Order": 1,
+				"Url": "http://ufs.co.ua/resources/infopanel/balance.png",
+				"Width": 0.22,
+				"Color": "1 1 1 0.4"
+			},
+			"Margin": "0 0 0 0.01",
+			"Order": 6,
+			"Text": {
+				"Align": "MiddleRight",
+				"AnchorX": "Left",
+				"AnchorY": "Bottom",
+				"Available": true,
+				"BackgroundColor": "0 0 0 0.0",
+				"Content": "No Content",
+				"FadeIn": 0.0,
+				"FadeOut": 0.0,
+				"FontColor": "1 1 1 0.4",
+				"FontSize": 12,
+				"Height": 1.0,
+				"Margin": "0 0 0 0.005",
+				"Order": 2,
+				"Width": 0.70
+			},
+			"Width": 0.30
+		}
+	},
+	"ThirdPartyPanels": {},
+	"TimeFormats": [
+		"H:mm",
+		"HH:mm",
+		"h:mm",
+		"h:mm tt"
+	]
+}
